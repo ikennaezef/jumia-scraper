@@ -1,0 +1,15 @@
+{
+	"name": "jumia-scraper",
+	"version": "1.0.0",
+	"description": "An application that scrapes the jumia website for affordable smartphones and stores data",
+	"main": "jumia.js",
+	"scripts": {
+		"test": "node jumia"
+	},
+	"keywords": [],
+	"author": "Ikenna Eze",
+	"license": "ISC",
+	"dependencies": {
+		"puppeteer": "^20.1.0"
+	}
+}
